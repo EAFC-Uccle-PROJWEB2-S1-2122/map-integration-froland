@@ -1,0 +1,17 @@
+# EAFC-Uccle
+https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=be&q=95 rue gatti de gamond 1180 uccle
+Accept: application/json
+
+###
+# Le Parvis Uccle
+https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=be&q=71 rue xavier de bue 1180 uccle
+Accept: application/json
+
+###
+# Maki Maki Uccle
+https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=be&q=644 chaussee d'alsemberg 1180 uccle
+
+###
+# O'Tacos Uccle
+https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=be&q=56 rue xavier de bue 1180 uccle
+Accept: application/json
